@@ -46,19 +46,6 @@
 </td>
 <td>
   
-🔬 Research Areas
-━━━━━━━━━━━━━━━━━━━━━━━━
-Climate AI          ████████░░  80%
-Healthcare AI       ███████░░░  70%
-Adversarial ML      ██████░░░░  60%
-Generative AI       ██████░░░░  60%
-
-💻 Dev Stack
-━━━━━━━━━━━━━━━━━━━━━━━━
-Full Stack          █████████░  90%
-Deep Learning       ████████░░  80%
-Data & XAI          ███████░░░  70%
-
 ---
 
 ## 📄 Research & Publications
