@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=C76C42&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Building+AI+systems+that+matter+🧠;Published+IEEE+Researcher+📄;Full-Stack+%2B+ML+Engineer+💻)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=C76C42&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Building+AI+systems+that+matter+🧠;Full-Stack+%2B+ML+Engineer+💻)](https://git.io/typing-svg)
 
 </div>
 
@@ -26,18 +26,38 @@
 ## 🌟 About Me
 
 <div align="center">
+<table border="0" cellspacing="0" cellpadding="10">
+<tr>
+<td>
+🎓   B.Tech AI & ML @ VIPS-TC, Delhi   ·   CGPA 9.1
 
-| | |
-|:---:|---|
-| 🎓 | **B.Tech AI & ML** @ Vivekananda Institute of Professional Studies, Delhi · CGPA **9.1** |
-| 📄 | **2x IEEE Published Researcher** — AI for climate tech & healthcare AI |
-| 🧠 | Passionate about **LLM Agents**, **Explainable AI** & **Metaheuristic Optimization** |
-| 💻 | Building **full-stack + ML systems** end to end — from model to deployment |
-| 🌱 | Currently exploring **Agentic AI**, **RAG pipelines** & **computer vision** |
-| 🤝 | Open to **research collaborations**, **internships** & interesting problems |
-| 📍 | Based in **New Delhi, India** |
+📄   2× IEEE Published Researcher
 
-</div>
+🧠   Into LLM Agents, XAI & Metaheuristic Optimization
+
+💻   Building full-stack + ML systems end to end
+
+🌱   Exploring Agentic AI, RAG pipelines & Computer Vision
+
+🤝   Open to research collabs & internships
+
+📍   New Delhi, India
+
+</td>
+<td>
+  
+🔬 Research Areas
+━━━━━━━━━━━━━━━━━━━━━━━━
+Climate AI          ████████░░  80%
+Healthcare AI       ███████░░░  70%
+Adversarial ML      ██████░░░░  60%
+Generative AI       ██████░░░░  60%
+
+💻 Dev Stack
+━━━━━━━━━━━━━━━━━━━━━━━━
+Full Stack          █████████░  90%
+Deep Learning       ████████░░  80%
+Data & XAI          ███████░░░  70%
 
 ---
 
