@@ -25,27 +25,19 @@
 
 ## 🌟 About Me
 
-<img align="right" width="350" src="https://github-readme-stats.vercel.app/api?username=Manshi-25&show_icons=true&hide_border=true&bg_color=00000000&title_color=c76c42&icon_color=945173&text_color=555555&count_private=true&rank_icon=github" />
+<div align="center">
 
-```python
-class ManshiChauhan:
-    def __init__(self):
-        self.name       = "Manshi Chauhan"
-        self.degree     = "B.Tech AI & ML @ VIPS-TC"
-        self.cgpa       = 9.1
-        self.location   = "New Delhi, India 📍"
-        self.research   = ["XAI", "LLM Agents", "Metaheuristics"]
-        self.published  = 2  # IEEE papers
-        self.open_to    = ["Research", "Internships", "Collabs"]
+| | |
+|:---:|---|
+| 🎓 | **B.Tech AI & ML** @ Vivekananda Institute of Professional Studies, Delhi · CGPA **9.1** |
+| 📄 | **2x IEEE Published Researcher** — AI for climate tech & healthcare AI |
+| 🧠 | Passionate about **LLM Agents**, **Explainable AI** & **Metaheuristic Optimization** |
+| 💻 | Building **full-stack + ML systems** end to end — from model to deployment |
+| 🌱 | Currently exploring **Agentic AI**, **RAG pipelines** & **computer vision** |
+| 🤝 | Open to **research collaborations**, **internships** & interesting problems |
+| 📍 | Based in **New Delhi, India** |
 
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something great 🚀")
-
-me = ManshiChauhan()
-me.say_hi()
-```
-
-<br clear="right"/>
+</div>
 
 ---
 
@@ -78,7 +70,6 @@ AI framework using XGBoost + SHAP to predict and explain urban heat intensity ac
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square)
 ![SHAP](https://img.shields.io/badge/SHAP-XAI-8a9a7e?style=flat-square)
-![Satellite](https://img.shields.io/badge/Satellite-Data-2ea44f?style=flat-square)
 
 [![IEEE](https://img.shields.io/badge/Published_on-IEEE_Xplore-00629B?style=for-the-badge&logo=ieee)](https://ieeexplore.ieee.org/document/11547950)
 
@@ -86,7 +77,7 @@ AI framework using XGBoost + SHAP to predict and explain urban heat intensity ac
 <td align="center" width="50%">
 
 ### 🦷 Oral Lesion Classifier
-PSO → GWO → Firefly cascaded with VGG16. Achieved **90.38% accuracy** on real clinical photographs.
+PSO → GWO → Firefly cascaded with VGG16. **90.38% accuracy** on real clinical photographs.
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![VGG16](https://img.shields.io/badge/VGG16-Transfer-945173?style=flat-square)
@@ -100,7 +91,7 @@ PSO → GWO → Firefly cascaded with VGG16. Achieved **90.38% accuracy** on rea
 <td align="center" width="50%">
 
 ### 🎓 Next Step Admission
-Full-stack AI-driven admission counselling platform built during internship at Next Step Admission.
+Full-stack AI-driven admission counselling platform built during internship.
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -162,8 +153,14 @@ Deep learning classifier for marine reef health monitoring, deployed as a public
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Manshi-25&hide_border=true&background=00000000&stroke=c76c42&ring=945173&fire=d4a84f&currStreakLabel=c76c42&sideLabels=555555&dates=888888" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Manshi-25&show_icons=true&hide_border=true&bg_color=00000000&title_color=c76c42&icon_color=945173&text_color=555555&count_private=true" width="49%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manshi-25&layout=donut&hide_border=true&bg_color=00000000&title_color=c76c42&text_color=555555&langs_count=6" width="38%" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Manshi-25&hide_border=true&background=00000000&stroke=c76c42&ring=945173&fire=d4a84f&currStreakLabel=c76c42&sideLabels=555555&dates=888888" width="60%" />
 
 </div>
 
