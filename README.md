@@ -182,14 +182,21 @@ Deep learning classifier for marine reef health monitoring.
 
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=Manshi-25&show_icons=true&hide_border=true&bg_color=00000000&title_color=c76c42&icon_color=945173&text_color=555555&count_private=true" />
+
 &nbsp;&nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manshi-25&layout=donut&hide_border=true&bg_color=00000000&title_color=c76c42&text_color=555555&langs_count=6" />
+
+
 
 
 </div>
 
 <br/>
 
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Manshi-25&bg_color=00000000&color=c76c42&line=945173&point=d4a84f&area=true&hide_border=true&radius=8)
+
+</div>
 
 ---
 
