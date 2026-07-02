@@ -7,7 +7,7 @@
 *B.Tech AI & ML @ Vivekananda Institute of Professional Studies, Delhi · CGPA 9.1*
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-manshi--chauhan.vercel.app-c76c42?style=for-the-badge&logo=vercel&logoColor=white)](https://manshi-chauhan.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Manshi_Chauhan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manshi-chauhan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Manshi_Chauhan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manshi-chauhan-860639315)
 [![Email](https://img.shields.io/badge/Email-manshi25chauhan@gmail.com-c76c42?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manshi25chauhan@gmail.com)
 
 </div>
