@@ -190,11 +190,6 @@ Deep learning classifier for marine reef health monitoring.
 
 <br/>
 
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Manshi-25&bg_color=00000000&color=c76c42&line=945173&point=d4a84f&area=true&hide_border=true&radius=8)
-
-</div>
 
 ---
 
